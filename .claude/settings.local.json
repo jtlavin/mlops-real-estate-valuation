@@ -3,5 +3,10 @@
   "enabledMcpjsonServers": [
     "playwright"
   ],
-  "outputStyle": "Learning"
+  "outputStyle": "Learning",
+  "permissions": {
+    "allow": [
+      "mcp__playwright__browser_navigate"
+    ]
+  }
 }
