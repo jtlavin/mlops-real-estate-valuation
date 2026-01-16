@@ -1,0 +1,7 @@
+[project]
+name = "mlops-real-estate-valuation"
+version = "0.1.0"
+description = "End-to-End MLOps project for real estate valuation in Santiago, Chile"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
